@@ -1,9 +1,11 @@
 Airbnb EDA Project(Python)
 
 🧭 Project Overview
+
 Founded in 2008, Airbnb has fundamentally changed the travel and hospitality landscape by offering a platform where hosts can list a wide variety of accommodations and travelers can book unique places to stay worldwide. This platform supports an extensive range of lodging options, including private rooms, entire homes, boutique apartments, and unusual properties like treehouses and boats. This personalized and flexible approach to accommodation has allowed Airbnb to become one of the most popular travel services globally, providing travelers with diverse and cost-effective lodging alternatives that traditional hotels may not offer.
 
 🎯 Purpose of the Project
+
 The Airbnb-Analysis-Capstone-Project leverages a comprehensive dataset of Airbnb listings to extract actionable insights into the platform’s operations, user preferences, and market trends. This analysis aims to support decision-making for:
 
 Hosts looking to optimize their listings,
@@ -11,6 +13,7 @@ Travelers seeking the best stays,
 Business stakeholders interested in understanding Airbnb’s marketplace dynamics.
 
 📊 Dataset Description
+
 The dataset includes detailed information about Airbnb listings, such as:
 
 Listing Details: ID, name, host ID, host name, neighborhood group (borough), specific neighborhood, latitude, and longitude.
@@ -22,6 +25,7 @@ Availability: Number of days the listing is available in a year.
 This rich dataset enables in-depth exploration of how listing attributes and host behaviors influence pricing, availability, and customer preferences.
 
 🔍 Few Key Analyses Conducted
+
 Average Price by Neighbourhood Group:
 Analyzed how the average price varies across major boroughs (Brooklyn, Manhattan, Queens, etc.) to identify which areas command higher or lower prices.
 
@@ -44,6 +48,7 @@ Host Activity Analysis:
 Investigated how the number of listings managed by hosts affects availability and pricing, offering insights into competition and host strategies.
 
 📈 Visualization Techniques
+
 The project employs a variety of visual tools to uncover insights:
 
 Heatmaps to illustrate feature correlations
@@ -53,6 +58,7 @@ Scatter plots for relationships between price, reviews, and availability
 Interactive dashboards for user-driven data exploration
 
 💡 Practical Insights
+
 Pricing Strategy:
 Hosts can adjust their prices based on neighborhood trends, room types, and seasonality to maximize occupancy and revenue.
 
